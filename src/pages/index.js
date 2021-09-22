@@ -7,20 +7,20 @@ const img_set = [
   {
     src: require('../assets/images/fulls/01.jpg'),
     thumbnail: require('../assets/images/thumbs/01.jpg'),
-    title: 'Great Sky',
-    desc: 'Be one with the Universe',
+    title: 'Kabuki Girl',
+    desc: 'Kabuki girl don\'t say sayanaro',
   },
   {
     src: require('../assets/images/fulls/02.jpg'),
     thumbnail: require('../assets/images/thumbs/02.jpg'),
-    title: 'High Mountains',
-    desc: 'Be one with the mountains',
+    title: 'High Up',
+    desc: 'Lift me up',
   },
   {
     src: require('../assets/images/fulls/03.jpg'),
     thumbnail: require('../assets/images/thumbs/03.jpg'),
     title: 'Any time ',
-    desc: 'Be one with the time',
+    desc: 'Can draw flowers any time',
   },
   {
     src: require('../assets/images/fulls/04.jpg'),
@@ -31,8 +31,8 @@ const img_set = [
   {
     src: require('../assets/images/fulls/05.jpg'),
     thumbnail: require('../assets/images/thumbs/05.jpg'),
-    title: 'Any Curiosity',
-    desc: 'Be one with the curiosity',
+    title: 'Curios eye',
+    desc: 'Be the curios one',
   },
   {
     src: require('../assets/images/fulls/06.jpg'),
@@ -43,14 +43,14 @@ const img_set = [
   {
     src: require('../assets/images/fulls/07.jpg'),
     thumbnail: require('../assets/images/thumbs/07.jpg'),
-    title: 'Be in present',
-    desc: 'Be one with the present',
+    title: 'Herbal tea',
+    desc: 'Tea anyone?',
   },
   {
     src: require('../assets/images/fulls/08.jpg'),
     thumbnail: require('../assets/images/thumbs/08.jpg'),
-    title: 'Give away',
-    desc: 'Be one with the empathy',
+    title: 'True face',
+    desc: 'Honestly, I have no make up on',
   },
   {
     src: require('../assets/images/fulls/09.jpg'),
@@ -67,8 +67,8 @@ const img_set = [
   {
     src: require('../assets/images/fulls/11.jpg'),
     thumbnail: require('../assets/images/thumbs/11.jpg'),
-    title: 'Conscious',
-    desc: 'Be one with the self',
+    title: 'Keep  calm',
+    desc: 'Big calm guy',
   },
   {
     src: require('../assets/images/fulls/12.jpg'),
@@ -79,8 +79,8 @@ const img_set = [
   {
     src: require('../assets/images/fulls/13.jpg'),
     thumbnail: require('../assets/images/thumbs/01.jpg'),
-    title: 'Great Sky',
-    desc: 'Be one with the Universe',
+    title: 'Raspberry',
+    desc: 'As soft as a kitten\'s feet',
   },
   {
     src: require('../assets/images/fulls/14.jpg'),
@@ -91,32 +91,32 @@ const img_set = [
   {
     src: require('../assets/images/fulls/15.jpg'),
     thumbnail: require('../assets/images/thumbs/03.jpg'),
-    title: 'Any time ',
-    desc: 'Be one with the time',
+    title: 'Bluebells',
+    desc: 'Bluebells are blue, roses are red',
   },
   {
     src: require('../assets/images/fulls/16.jpg'),
     thumbnail: require('../assets/images/thumbs/04.jpg'),
-    title: 'Any source of light',
-    desc: 'Be one with the light',
+    title: 'Space',
+    desc: 'Be one with the space',
   },
   {
     src: require('../assets/images/fulls/17.jpg'),
     thumbnail: require('../assets/images/thumbs/05.jpg'),
-    title: 'Any Curiosity',
-    desc: 'Be one with the curiosity',
+    title: 'Secrets',
+    desc: 'I know what you don\'t',
   },
   {
     src: require('../assets/images/fulls/18.jpg'),
     thumbnail: require('../assets/images/thumbs/06.jpg'),
-    title: 'Any source of enlightenment',
-    desc: 'Be one with the soul',
+    title: 'Throught the space',
+    desc: 'Into the thick of it',
   },
   {
     src: require('../assets/images/fulls/19.jpg'),
     thumbnail: require('../assets/images/thumbs/07.jpg'),
-    title: 'Be in present',
-    desc: 'Be one with the present',
+    title: 'Peace',
+    desc: 'I am not afraid anymore',
   },
   {
     src: require('../assets/images/fulls/20.jpg'),
@@ -127,14 +127,14 @@ const img_set = [
   {
     src: require('../assets/images/fulls/21.jpg'),
     thumbnail: require('../assets/images/thumbs/09.jpg'),
-    title: 'Moment',
-    desc: 'Be one with the moment',
+    title: 'Life',
+    desc: 'Seemingly insignificant moments',
   },
   {
     src: require('../assets/images/fulls/22.jpg'),
     thumbnail: require('../assets/images/thumbs/10.jpg'),
-    title: 'Serenity',
-    desc: 'Be one with the purity',
+    title: 'Audacity',
+    desc: 'Just do it',
   },
   {
     src: require('../assets/images/fulls/23.jpg'),
@@ -145,19 +145,19 @@ const img_set = [
   {
     src: require('../assets/images/fulls/24.jpg'),
     thumbnail: require('../assets/images/thumbs/12.jpg'),
-    title: 'Nature',
-    desc: 'Be one with the nature',
+    title: 'Smoke ring',
+    desc: 'Vey peaceful to look at'
   },
   {
     src: require('../assets/images/fulls/25.jpg'),
     thumbnail: require('../assets/images/thumbs/12.jpg'),
-    title: 'Nature',
-    desc: 'Be one with the nature',
+    title: 'Smoke',
+    desc: 'My eyes are about to tear up',
   },
   {
     src: require('../assets/images/fulls/26.jpg'),
     thumbnail: require('../assets/images/thumbs/12.jpg'),
-    title: 'Nature',
+    title: 'Wild rose',
     desc: 'Be one with the nature',
   },
 ];
