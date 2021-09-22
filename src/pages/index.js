@@ -160,12 +160,6 @@ const img_set = [
     title: 'Nature',
     desc: 'Be one with the nature',
   },
-  {
-    src: require('../assets/images/fulls/27.jpg'),
-    thumbnail: require('../assets/images/thumbs/12.jpg'),
-    title: 'Nature',
-    desc: 'Be one with the nature',
-  },
 ];
 const IndexPage = () => (
   <Layout>
