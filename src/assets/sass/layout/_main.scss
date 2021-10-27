@@ -73,6 +73,16 @@
     > p {
       display: none;
     }
+
+    > h3 {
+      @include vendor('pointer-events', 'none');
+      font-size: 1em;
+      left: (1.75em / 0.8);
+      padding: 10px;
+      position: absolute;
+      z-index: 1;
+      background-color: rgba(66, 0, 0, 0.51);
+    }
   }
 
   &:after {

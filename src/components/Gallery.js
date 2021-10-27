@@ -77,6 +77,7 @@ class Gallery extends Component {
           </span>
           <h2>{obj.title}</h2>
           <p>{obj.desc}</p>
+          <h3>{obj.availability}</h3>
         </article>
       );
     });
@@ -90,7 +91,7 @@ class Gallery extends Component {
         <Lightbox
           currentImage={this.state.currentImage}
           images={this.props.images.map(img => {
-            img.caption = `${img.title} - ${img.desc}`;
+            img.caption = `${img.title} - ${img.desc} - ${img.availability}`;
             return img;
           })}
           isOpen={this.state.lightboxIsOpen}
