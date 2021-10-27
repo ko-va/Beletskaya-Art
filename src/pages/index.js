@@ -37,7 +37,7 @@ const img_set = [
     thumbnail: require('../assets/images/thumbs/05.jpg'),
     title: 'Curios eye',
     desc: 'Be the curios one',
-    availability: 'SOLD',
+    availability: 'Available',
   },
   {
     src: require('../assets/images/fulls/06.jpg'),
@@ -65,7 +65,7 @@ const img_set = [
     thumbnail: require('../assets/images/thumbs/09.jpg'),
     title: 'Moment',
     desc: 'Be one with the moment',
-    availability: 'Available',
+    availability: 'SOLD',
   },
   {
     src: require('../assets/images/fulls/10.jpg'),
@@ -100,7 +100,7 @@ const img_set = [
     thumbnail: require('../assets/images/thumbs/02.jpg'),
     title: 'High Mountains',
     desc: 'Be one with the mountains',
-    availability: 'Available',
+    availability: 'SOLD',
   },
   {
     src: require('../assets/images/fulls/15.jpg'),
